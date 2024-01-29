@@ -438,7 +438,7 @@ header.sticky {
     top: auto;
     font-size: 15px;
     padding: 10px;
-    background-color: rgb(194, 168, 168);
+    background-color: pink;
     border-radius: 50px;
     transition: all.30s;
     bottom: 3px;
@@ -454,7 +454,6 @@ header.sticky {
     .add-to-cart h2 {
         position: absolute;
         width: 500px;
-        top: 140px;
         right: 0;
     }
 }
